@@ -1,2 +1,1 @@
-# MatanyaWiener.github.io
-This is a website I am trying 
+# Welcome to this awesome website where everything is working  
